@@ -39,4 +39,8 @@ public class TextTokenizer {
 	        doc.tokens = getKeywordCounts(keywordArray);
 	        return doc;
 	    }
+	 
+	 
+	 
+	 
 }
